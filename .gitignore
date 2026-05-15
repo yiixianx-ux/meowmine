@@ -32,3 +32,4 @@ Thumbs.db
 node_modules/
 packages/web/frontend/dist/
 .gstack/
+package-lock.json
